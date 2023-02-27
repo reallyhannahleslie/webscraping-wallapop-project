@@ -1,0 +1,11 @@
+pandas
+requests
+bs4
+selenium
+time
+selenium.webdriver
+selenium.webdriver.common.action_chains.ActionChains
+selenium.webdriver.common.by.By
+selenium.webdriver.support.wait.WebDriverWait
+selenium.webdriver.support.expected_conditions
+selenium.webdriver.common.keys.Keys
